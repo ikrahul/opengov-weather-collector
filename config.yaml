@@ -1,0 +1,14 @@
+weather_api:
+  base_url: https://weather.visualcrossing.com
+  api_key: API_KEY
+
+location:
+  latitude: 18.5204
+  longitude: 73.8567
+
+storage:
+  database_path: data/weather.db
+
+logging:
+  level: INFO
+  file: logs/weather_collector.log

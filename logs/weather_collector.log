@@ -1,0 +1,7 @@
+2025-12-17 00:41:59,021 INFO root - Weather collection job started for 2025-12-17
+2025-12-17 00:41:59,033 INFO root - Fetching weather data for 2025-12-17
+2025-12-17 00:42:00,044 INFO root - Weather data stored successfully for 2025-12-17
+2025-12-17 00:42:00,045 INFO root - Weather collection job completed
+2025-12-17 00:58:30,252 INFO root - Weather collection job started for 2025-12-17
+2025-12-17 00:58:30,255 INFO root - Weather record already exists for 2025-12-17, skipping
+2025-12-17 00:58:30,255 INFO root - Weather collection job completed
